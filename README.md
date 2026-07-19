@@ -150,8 +150,6 @@ AI/ML Practitioner | AI Product Engineer Intern Candidate
 
 <img width="1910" height="1024" alt="image" src="https://github.com/user-attachments/assets/2dc777a6-4f84-464b-a317-2eb19fb9a2a9" />
 
-<img width="1910" height="1024" alt="image" src="https://github.com/user-attachments/assets/27341807-77a8-47dd-8596-21e11d359eca" />
-
 
 
 
