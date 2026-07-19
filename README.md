@@ -1,4 +1,3 @@
-```markdown
 # AI-Powered Sports Quiz Generation Agent
 
 An intelligent quiz generation system built using **Retrieval-Augmented Generation (RAG)**.  
