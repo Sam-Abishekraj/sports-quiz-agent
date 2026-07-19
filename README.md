@@ -143,5 +143,4 @@ Explanation: India won its first-ever Thomas Cup title in 2022...
 
 **Sam Abishekraj**  
 AI/ML Practitioner | AI Product Engineer Intern Candidate
-```
 
